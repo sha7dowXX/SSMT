@@ -1,7 +1,7 @@
 # SSMT
 
-SSMT: 基于3Dmigoto的模型提取工具箱。
+SSMT: 基于3Dmigoto的Mod制作综合工具箱。
 
-![image](https://github.com/user-attachments/assets/f9c46fcf-245c-4a05-997b-1760977237ce)
+<img width="1435" height="780" alt="image" src="https://github.com/user-attachments/assets/c39afb84-b658-4918-906a-5490f9625db6" />
 
 使用教程查看：[SSMT使用文档](https://starbobis.github.io/SSMT-Documents/)
