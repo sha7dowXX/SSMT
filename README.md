@@ -7,3 +7,10 @@ SSMT: 基于3Dmigoto的Mod制作综合工具箱。
 Github教程：[SSMT使用文档](https://starbobis.github.io/SSMT-Documents/)
 
 语雀教程：[SSMT语雀文档](https://www.yuque.com/airde/luxqvg)
+
+
+# 仅为Mod作者设计
+
+SSMT相关功能仅为Mod作者设计，如果要流畅游玩Mod，推荐使用XXMI-Launcher:
+
+https://github.com/SpectrumQT/XXMI-Launcher
